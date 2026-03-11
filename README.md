@@ -22,7 +22,7 @@
 ## 🚀 Featured Projects
 
 🍽 **Cantinho Deolinda**
-Restaurant website built with PHP, HTML, CSS and JavaScript.
+Restaurant website built with **PHP, HTML, CSS and JavaScript**.
 🔗 http://aluno15696.damiaodegoes.pt
 
 📝 **Notely REST API**
@@ -107,4 +107,20 @@ https://github.com/brunooc11
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunooc11&theme=tokyonight"/>
 
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunooc11&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=brunooc11&theme=tokyonight"/>
 </p>
