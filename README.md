@@ -122,7 +122,7 @@ https://github.com/brunooc11
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=brunooc11&show_icons=true&theme=tokyonight"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooc11&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooc11&layout=compact&theme=tokyonight&langs_count=8"/>
 
 </p>
 
