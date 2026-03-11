@@ -122,5 +122,5 @@ https://github.com/brunooc11
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=brunooc11&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=brunooc11&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
