@@ -13,7 +13,6 @@
 <a href="mailto:brunomiguelcarvalho4211@gmail.com">
 <img src="https://img.shields.io/badge/Email-brunomiguelcarvalho4211%40gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
-</p>
 <a href="https://github.com/brunooc11">
 <img src="https://img.shields.io/badge/GitHub-brunooc11-black?style=for-the-badge&logo=github"/>
 </a>
