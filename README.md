@@ -6,12 +6,21 @@
 <h3 align="center">💻 Passionate Web Developer from Portugal</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=brunooc11&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=brunooc11&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+<a href="mailto:brunomiguelcarvalho4211@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://github.com/brunooc11">
+<img src="https://img.shields.io/badge/GitHub-brunooc11-black?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🔭 Currently working on **CantinhoDeolinda restaurant website**
 
@@ -37,7 +46,7 @@
 
 Restaurant website built with **PHP, HTML, CSS and JavaScript**
 
-🔗 Live Demo
+🔗 **Live Demo**
 http://aluno15696.damiaodegoes.pt
 
 ---
@@ -46,12 +55,12 @@ http://aluno15696.damiaodegoes.pt
 
 REST API for managing notes using backend technologies
 
-🔗 Repository
+🔗 **Repository**
 https://github.com/brunooc11/notely-rest-api
 
 ---
 
-👨‍💻 All my projects
+👨‍💻 **All my projects**
 https://github.com/brunooc11
 
 ---
