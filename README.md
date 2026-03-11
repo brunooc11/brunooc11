@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Bruno 👋
 
-<!--
-**brunooc11/brunooc11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer  
+🚀 Building web projects with PHP & JavaScript  
+📚 Always learning new technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+---
+
+## 🚀 Projects
+
+### 🍽 Cantinho Deolinda
+Restaurant website built with PHP, HTML, CSS and JavaScript.
+
+Features:
+- Menu page
+- Reservation system
+- Events section
+
+---
+
+## 📊 GitHub Stats
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunooc11&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunooc11&layout=compact&theme=dark)
+
+## 📫 Contact
+
+📧 brunomiguelcarvalho4211@gmail.com
