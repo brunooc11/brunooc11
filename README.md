@@ -11,8 +11,9 @@
 
 <p align="center">
 <a href="mailto:brunomiguelcarvalho4211@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-brunomiguelcarvalho4211%40gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
+</p>
 <a href="https://github.com/brunooc11">
 <img src="https://img.shields.io/badge/GitHub-brunooc11-black?style=for-the-badge&logo=github"/>
 </a>
@@ -141,10 +142,10 @@ https://github.com/brunooc11
 
 ---
 
-# 📈 Activity Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunooc11&theme=tokyo-night"/>
+  <img src="https://raw.githubusercontent.com/brunooc11/brunooc11/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
