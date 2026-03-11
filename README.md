@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Bruno%20Carvalho&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Bruno Carvalho</h1>
 <h3 align="center">💻 Passionate Web Developer from Portugal</h3>
 
@@ -21,12 +25,23 @@
 
 ## 🚀 Featured Projects
 
-🍽 **Cantinho Deolinda**
-Restaurant website built with **PHP, HTML, CSS and JavaScript**.
-🔗 http://aluno15696.damiaodegoes.pt
+### 🍽 Cantinho Deolinda
 
-📝 **Notely REST API**
-REST API for managing notes using backend technologies and databases.
+Restaurant website built with **PHP, HTML, CSS and JavaScript**.
+
+🔗 Live Demo
+http://aluno15696.damiaodegoes.pt
+
+---
+
+### 📝 Notely REST API
+
+REST API for managing notes using backend technologies.
+
+🔗 Repository
+https://github.com/brunooc11/notely-rest-api
+
+---
 
 👨‍💻 **All my projects:**
 https://github.com/brunooc11
@@ -119,3 +134,6 @@ https://github.com/brunooc11
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
